@@ -6,8 +6,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install dependencies
-        run: echo"npm install softawre"
+        run: echo "npm install softawre"
       - name: Run tests
-        run: echo"npm install software  testing"
+        run: echo "npm install software  testing"
       - name: Deploy
         run: echo "Deployed successfully!"
